@@ -7,6 +7,7 @@ LABIRINTO AMAZON FRESH é um exercício em que nós, alunos do cuso de Desenvolv
 - Criar labirintos e possibilidades diferentes.
 - Identificar o melhor caminho para resgatar os produtos.
 - Construir um relatório.
+ 
 ✨
 ## LINK DO RELATÓRIO
 
